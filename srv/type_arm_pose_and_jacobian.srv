@@ -1,0 +1,6 @@
+# request
+string name
+---
+# response
+float64[] poses
+float64[] jacobians

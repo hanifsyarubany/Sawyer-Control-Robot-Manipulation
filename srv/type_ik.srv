@@ -1,0 +1,8 @@
+# request
+string tip_name
+float64[] geometry
+float64[] current_joint_angles
+
+---
+# response
+float64[] target_joint_angles
